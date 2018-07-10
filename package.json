@@ -1,0 +1,24 @@
+{
+  "name": "nodealbum",
+  "version": "1.0.0",
+  "description": "write by Luca",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouyang1230/NodeAlbum.git"
+  },
+  "author": "Luca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zouyang1230/NodeAlbum/issues"
+  },
+  "homepage": "https://github.com/zouyang1230/NodeAlbum#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}

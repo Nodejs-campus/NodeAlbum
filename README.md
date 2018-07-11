@@ -11,3 +11,4 @@ a album website created by Express
 npm install
 node app.js
 ```
+然后方位本地8080端口即可

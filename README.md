@@ -11,4 +11,4 @@ a album website created by Express
 npm install
 node app.js
 ```
-然后方位本地8080端口即可
+然后访问本地8080端口即可（http://127.0.0.1:8080/）
